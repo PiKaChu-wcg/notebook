@@ -1,0 +1,75 @@
+{
+    "notebooks": [
+        {
+            "creation": "2021-02-11 00:13:40",
+            "id": "{c439be95-4faa-4694-bc98-79bf7542b07f}",
+            "name": "machine learning",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-02-03 23:50:39",
+                    "entry": "机器学习_周志华",
+                    "id": "{6397d087-be06-46c2-8263-0ba43e7e7d2f}",
+                    "name": "机器学习_周志华",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-02-11 00:15:55",
+                    "entry": "统计学习方法 李航",
+                    "id": "{af78720d-c33d-4a9e-8afb-110cc4104f25}",
+                    "name": "统计学习方法 李航",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-02-11 00:16:04",
+                    "entry": "百面机器学习算法工程师带你去面试",
+                    "id": "{d9557192-0186-47d2-8336-8df17b1fbd1f}",
+                    "name": "百面机器学习算法工程师带你去面试",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        },
+        {
+            "creation": "2021-02-11 00:13:59",
+            "id": "{c55516d6-5337-4a26-9eaf-cb912e492d0c}",
+            "name": "data science",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-02-11 00:14:55",
+                    "entry": "各大数据竞赛 Top 解决方案开源实现汇总",
+                    "id": "{1e60cae2-cacd-4f00-b0fe-cc9d89fb8f9c}",
+                    "name": "各大数据竞赛 Top 解决方案开源实现汇总",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-02-12 01:16:37",
+                    "entry": "自己动手做大数据系统 ",
+                    "id": "{002fbb15-594c-4160-9d6a-ae2acae6e95b}",
+                    "name": "自己动手做大数据系统 ",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-02-12 01:49:17",
+                    "entry": "数据挖掘：概念与技术（中文第三版）",
+                    "id": "{289f20ee-0efc-4dae-b859-8d8470091927}",
+                    "name": "数据挖掘：概念与技术（中文第三版）",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        },
+        {
+            "creation": "2021-02-11 00:14:18",
+            "id": "{378c4905-6c45-4f00-aa83-48af12c30f92}",
+            "name": "temprate",
+            "type": 1
+        }
+    ],
+    "version": 2
+}
